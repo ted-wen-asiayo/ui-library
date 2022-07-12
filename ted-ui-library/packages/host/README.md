@@ -1,11 +1,11 @@
-# `@ted-wen-ui-library/host`
+# `@ted-ui-library/host`
 
 > TODO: description
 
 ## Usage
 
 ```
-const host = require('@ted-wen-ui-library/host');
+const host = require('@ted-ui-library/host');
 
 // TODO: DEMONSTRATE API
 ```

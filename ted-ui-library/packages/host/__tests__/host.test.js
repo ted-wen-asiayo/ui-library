@@ -2,6 +2,6 @@
 
 const host = require('..');
 
-describe('@ted-wen-ui-library/host', () => {
+describe('@ted-ui-library/host', () => {
     it('needs tests');
 });
